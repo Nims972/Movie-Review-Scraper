@@ -29,6 +29,6 @@ To make our own scraper using scrapy we can create scrapy project using below co
 scrapy startproject <project_name>
 ```
 
-##Purpose
+## Purpose
 
 The purpose of this project is to get familiar with concept of scraping and crawling and prepare small dataset for data science project hence I have also crated csv file which can be used in python with pandas easily
